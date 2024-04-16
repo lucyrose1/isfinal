@@ -1,0 +1,70 @@
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    border-bottom: 4px dashed pink;
+    border-top: 4px dashed pink;
+}
+.descript{
+text-align: center;
+border-bottom: 5px solid rgb(215, 78, 158);
+}
+.border{
+    border-top: 5px dashed rgb(215, 78, 158);
+}
+.bottom{
+    position: fixed;
+    text-align: center;
+    font-size: medium;
+    background-color: rgb(215, 78, 158);
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.verytop{
+    position: relative;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 80px; /* Adjust spacing between images */
+    max-width: 550px;
+}
+
+.text-container {
+    text-align: center;
+    margin-top: 10px; /* Adjust space between text and image */
+    width: 100%;
+}
+.text-container p {
+    width: 100%; /* Set paragraph width to match text container width */
+}
+
+.image-container img {
+    max-width: 100%; /* Ensure images don't exceed their container */
+    height: auto;
+}
+
+.imgcenter {
+    display: block;
+    margin: auto; /* for specific image*/
+}
+.shadow{
+        box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+}
+.center{
+    text-align: center;
+}
+.vidcenter {
+    display: block;
+    margin: auto; /* for specific image*/
+}

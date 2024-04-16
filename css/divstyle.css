@@ -1,0 +1,13 @@
+.color{
+    color: pink !important;
+}
+.bigcolor{
+    background-color: pink !important;
+}
+.italics{
+    font-style: italic;
+}
+.pink{
+    color: pink !important;
+    font-weight: bold;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+    font-family: 'Open Sans';
+    font-size: large;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xxx-large;
+    font-weight: bolder;
+    background-color:  rgb(215, 78, 158);
+}
+h2{
+    font-family: 'Open Sans';
+    font-size: large;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: rgb(215, 78, 158);
+}
+a{
+    color: rgb(215, 78, 158)
+}
+a:visited{
+    color: blueviolet;
+}
